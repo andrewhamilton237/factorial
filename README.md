@@ -1,0 +1,2 @@
+# factorial
+Simple factorial calculator
